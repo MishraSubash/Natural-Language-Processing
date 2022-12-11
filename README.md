@@ -50,9 +50,7 @@ Next, look at the ngrams and word frequency for each coin.
 
 Finally, generate word clouds for each coin to summarize the news for each coin.
 
-![btc-word-cloud.png](Images/btc-word-cloud.png)
 
-![eth-word-cloud.png](Images/eth-word-cloud.png)
 
 
 
@@ -60,11 +58,6 @@ Finally, generate word clouds for each coin to summarize the news for each coin.
 
 In this section, you will build a named entity recognition model for both coins and visualize the tags using SpaCy.
 
-![btc-ner.png](Images/btc-ner.png)
-
-![eth-ner.png](Images/eth-ner.png)
-
-- - -
 
 ### Resources
 
@@ -78,12 +71,3 @@ The free developer version of the News API limits the total monthly requests, so
 
 - - -
 
-### Submission
-
-* Create Jupyter Notebooks for the NLP analysis and host the notebooks on GitHub.
-
-* Include a Markdown that summarizes your homework and include this report in your GitHub repo.
-
-* Submit the link to your GitHub project to Bootcamp Spot.
-
-© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
